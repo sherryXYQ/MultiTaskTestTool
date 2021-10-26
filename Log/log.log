@@ -1,0 +1,6 @@
+2021-06-24 17:09:56,805 - DEBUG - root - this is debug msg
+2021-06-24 17:16:23,661 - DEBUG - root - this is debug msg
+2021-06-24 17:16:23,661 - INFO - root - this is info msg
+2021-06-24 17:16:23,661 - WARNING - root - this is warning msg
+2021-06-24 17:16:23,661 - ERROR - root - this is error msg
+2021-06-24 17:16:23,661 - CRITICAL - root - this is critical msg
